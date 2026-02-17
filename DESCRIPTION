@@ -1,8 +1,8 @@
 Package: jaspDyads
 Type: Package
 Title: A JASP module for dyadic network analysis
-Version: 0.19.3
-Date: 2025-11-01
+Version: 0.96.1
+Date: 2026-02-01
 Author: Pankaj Singla
 Website: jasp-stats.org
 Maintainer: JASP Team <info@jasp-stats.org>
