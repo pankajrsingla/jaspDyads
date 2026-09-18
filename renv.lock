@@ -426,13 +426,8 @@
     "dyads": {
       "Package": "dyads",
       "Version": "1.2.22.3",
-      "Source": "GitHub",
-      "RemoteType": "github",
-      "RemoteHost": "api.github.com",
-      "RemoteUsername": "pankajrsingla",
-      "RemoteRepo": "dyads",
-      "RemoteRef": "main",
-      "RemoteSha": "84652003e1fc6fd10c3760efb03766851dce4e68",
+      "Source": "Repository",
+      "Repository": "CRAN",
       "Requirements": [
         "CholWishart",
         "MASS",
@@ -442,7 +437,7 @@
         "mvtnorm",
         "stats"
       ],
-      "Hash": "e08d2bf88afc05a1a9b000750b76c519"
+      "Hash": "57ce1f5e4de2fe57b6669869ee3e3c93"
     },
     "evaluate": {
       "Package": "evaluate",
@@ -1510,13 +1505,13 @@
     },
     "tinytex": {
       "Package": "tinytex",
-      "Version": "0.60",
+      "Version": "0.61",
       "Source": "Repository",
       "Repository": "CRAN",
       "Requirements": [
         "xfun"
       ],
-      "Hash": "263651b52279eaa7835e44aa32f9b754"
+      "Hash": "e98513b92c1ef46d465f869ab27cf6d7"
     },
     "utf8": {
       "Package": "utf8",
