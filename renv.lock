@@ -97,7 +97,7 @@
     },
     "RcppArmadillo": {
       "Package": "RcppArmadillo",
-      "Version": "15.4.2-1",
+      "Version": "15.6.0-1",
       "Source": "Repository",
       "Repository": "CRAN",
       "Requirements": [
@@ -107,7 +107,7 @@
         "stats",
         "utils"
       ],
-      "Hash": "f7694f9bd161314b273073279998a69b"
+      "Hash": "42ca2009fc269c88b7558555e9c0b984"
     },
     "RcppParallel": {
       "Package": "RcppParallel",
@@ -190,7 +190,7 @@
     },
     "bit64": {
       "Package": "bit64",
-      "Version": "4.8.4",
+      "Version": "4.8.6",
       "Source": "Repository",
       "Repository": "CRAN",
       "Requirements": [
@@ -201,7 +201,7 @@
         "stats",
         "utils"
       ],
-      "Hash": "80a9831ac0f71e2b53c9572ab97c490f"
+      "Hash": "36ab281fe85b6294eb3d9f220880383c"
     },
     "blob": {
       "Package": "blob",
@@ -376,7 +376,7 @@
     },
     "diffobj": {
       "Package": "diffobj",
-      "Version": "0.3.8",
+      "Version": "0.3.9",
       "Source": "Repository",
       "Repository": "CRAN",
       "Requirements": [
@@ -387,7 +387,7 @@
         "tools",
         "utils"
       ],
-      "Hash": "fc69a29e9a851af8d0d07b3d4ed1dea4"
+      "Hash": "c82d2df0001653a4619514755befe72f"
     },
     "digest": {
       "Package": "digest",
@@ -432,7 +432,7 @@
       "RemoteUsername": "pankajrsingla",
       "RemoteRepo": "dyads",
       "RemoteRef": "main",
-      "RemoteSha": "e9d5a7152d6df7fc40593d7793c21f3dcd7ce948",
+      "RemoteSha": "84652003e1fc6fd10c3760efb03766851dce4e68",
       "Requirements": [
         "CholWishart",
         "MASS",
@@ -442,7 +442,7 @@
         "mvtnorm",
         "stats"
       ],
-      "Hash": "c19cfaee0b525d8aa26ddf1c29c9093c"
+      "Hash": "e08d2bf88afc05a1a9b000750b76c519"
     },
     "evaluate": {
       "Package": "evaluate",
@@ -683,7 +683,7 @@
     },
     "httr": {
       "Package": "httr",
-      "Version": "1.4.8",
+      "Version": "1.4.9",
       "Source": "Repository",
       "Repository": "CRAN",
       "Requirements": [
@@ -694,7 +694,7 @@
         "mime",
         "openssl"
       ],
-      "Hash": "10bcae7793493db63a6872096132e10c"
+      "Hash": "bc0b2d531d78701c4cd1221adbf052ce"
     },
     "isoband": {
       "Package": "isoband",
@@ -719,7 +719,7 @@
       "RemoteUsername": "jasp-stats",
       "RemoteRepo": "jaspBase",
       "RemoteRef": "master",
-      "RemoteSha": "8178dff14eae2619c54678596b6f487860c33892",
+      "RemoteSha": "f6e133c40b95bff441d344bf193054d4c98c7e47",
       "Remotes": "jasp-stats/jaspGraphs",
       "Requirements": [
         "R6",
@@ -745,7 +745,7 @@
         "systemfonts",
         "withr"
       ],
-      "Hash": "9c8eb9556d6c5befd0f0919635268303"
+      "Hash": "bb3b456b0962030c99157152560c629e"
     },
     "jaspGraphs": {
       "Package": "jaspGraphs",
@@ -756,7 +756,7 @@
       "RemoteUsername": "jasp-stats",
       "RemoteRepo": "jaspGraphs",
       "RemoteRef": "master",
-      "RemoteSha": "320aef74cc801463ea134c109eb5a4d8bb2a4ab3",
+      "RemoteSha": "edb912bfb3435da6f079068a176f46cd8294b4e0",
       "Requirements": [
         "R6",
         "cli",
@@ -770,7 +770,7 @@
         "rlang",
         "scales"
       ],
-      "Hash": "46d674d28ec74b8ee5224eeb86bb1a2e"
+      "Hash": "572464666b983097fbd10f5e8102d84e"
     },
     "jaspTools": {
       "Package": "jaspTools",
@@ -823,7 +823,7 @@
     },
     "knitr": {
       "Package": "knitr",
-      "Version": "1.51",
+      "Version": "1.52",
       "Source": "Repository",
       "Repository": "CRAN",
       "Requirements": [
@@ -835,7 +835,7 @@
         "xfun",
         "yaml"
       ],
-      "Hash": "27682babb50f03b6eb7939ea69ec79ca"
+      "Hash": "4d63263f549e7fc46135cf1f9916c97f"
     },
     "labeling": {
       "Package": "labeling",
@@ -1182,7 +1182,7 @@
     },
     "readxl": {
       "Package": "readxl",
-      "Version": "1.5.0",
+      "Version": "1.5.0.1",
       "Source": "Repository",
       "Repository": "CRAN",
       "Requirements": [
@@ -1193,7 +1193,7 @@
         "tibble",
         "utils"
       ],
-      "Hash": "db51be8ae666e3d16195395b9058a91a"
+      "Hash": "4a7247857644db69be2682d9afae9857"
     },
     "rematch": {
       "Package": "rematch",
@@ -1254,7 +1254,7 @@
     },
     "rmarkdown": {
       "Package": "rmarkdown",
-      "Version": "2.31",
+      "Version": "2.32",
       "Source": "Repository",
       "Repository": "CRAN",
       "Requirements": [
@@ -1273,7 +1273,7 @@
         "xfun",
         "yaml"
       ],
-      "Hash": "f34039d57d861d2869cbf9be813ed08e"
+      "Hash": "b1ca7a0b03d962df0a17e8079cbaa376"
     },
     "rprojroot": {
       "Package": "rprojroot",
@@ -1610,7 +1610,7 @@
     },
     "xfun": {
       "Package": "xfun",
-      "Version": "0.60",
+      "Version": "0.61",
       "Source": "Repository",
       "Repository": "CRAN",
       "Requirements": [
@@ -1619,7 +1619,7 @@
         "stats",
         "tools"
       ],
-      "Hash": "8304c2894061f6ae062996f09dd1528e"
+      "Hash": "963d31271610fe02db20d76dc4b2c773"
     },
     "xml2": {
       "Package": "xml2",
